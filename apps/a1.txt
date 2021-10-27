@@ -1,0 +1,20 @@
+﻿ INSTRUÇÕES
+
+Objetivos de aprendizagem (em duplas):
+- Ambientação, aprendizado e uso de GITHUB.
+- Criação de projeto Front-end HTML, CSS e JS com uso de Framework.
+- Criação de ambiente e serviços de Back-end com Framework.
+- Vinculação do projeto Front-end no ambiente Back-end.
+- Apresentação em aula dia Projeto, Logs de GITHUB e ambiente Front-end e Back-end funcionando.
+
+
+Atividades:
+- Clonar o projeto no github;
+- Seguir todos os tuturiais e montar o ambiente local de Front-end e Back-end vinculado ao projeto do github.
+
+- Implementar com informacoes de sua escolha pelo menos 4 paginas de front-end, utilizando NAV, DIV, FORM, LINK, IMG,
+ TABLE com formatação de CSS personalizadas ou de uso do Framework Front-end.
+
+- O ambiente deve estar funcinando localmente no computador de cada integrante do grupo e atulizado no github.
+- Os logs serão utilizados para avalaicão do grupo, logo faça todas as etapas no github.
+
